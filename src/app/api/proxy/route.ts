@@ -1,9 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-export function middleware(request: NextRequest) {
-  return NextResponse.next();
-}
-
 export async function GET(req: NextRequest) {
   const url = new URL(req.url);
   const fullPath = url.pathname.replace(/^\/api\/proxy/, '');
