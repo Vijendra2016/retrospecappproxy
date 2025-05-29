@@ -149,7 +149,24 @@ export async function GET(req: NextRequest) {
   '/en_US/bike-parts-accessories-specs-components/what-is-an-ergoknob': 'https://help.retrospec.com/en-US/what-is-an-%22ergoknob%22-629637',
   '/en_US/bike-parts-accessories-specs-components/are-your-bike-baskets-compatible-with-all-of-your-bikes': 'https://help.retrospec.com/en-US/are-your-bike-baskets-compatible-with-all-of-your-bikes-629657',
   '/en_US/bike-parts-accessories-sizing-weight/how-do-i-find-my-helmet-size': 'https://help.retrospec.com/en-US/how-do-i-find-my-helmet-size-629665',
-
+ 
+  '/en_US/water-general': 'https://help.retrospec.com/en-US/articles/product-help-paddle-160840',
+  '/en_US/water-general/what-paddle-board-is-best-for-beginners': 'https://help.retrospec.com/en-US/what-paddle-board-is-best-for-beginners-629814',
+  '/en_US/water-general/will-i-need-mounts-on-my-car-to-transport-my-paddle-board': 'https://help.retrospec.com/en-US/will-i-need-mounts-on-my-car-to-transport-my-paddle-board-629815',
+  '/en_US/water-general/are-inflatable-paddle-boards-sturdy': 'https://help.retrospec.com/en-US/are-inflatable-paddle-boards-sturdy-629816',
+  '/en_US/water-general/can-i-take-a-retrospec-paddle-board-on-a-river-with-class-1-to-3-rapids': 'https://help.retrospec.com/en-US/can-i-take-a-retrospec-paddle-board-on-a-river-with-class-1-to-3-rapids-629817',
+  '/en_US/water-general/do-you-test-the-boards-for-leaking-prior-to-delivery': 'https://help.retrospec.com/en-US/do-you-test-the-boards-for-leaking-prior-to-delivery-629818',
+  '/en_US/water-general/what-is-the-difference-between-and-isup-and-a-regular-paddle-board': 'https://help.retrospec.com/en-US/what-is-the-difference-between-an-isup-and-a-regular-paddle-board-629819',
+  '/en_US/water-accessory-compatibility/is-the-weekender-electric-pump-compatible-with-all-isups-and-platforms': 'https://help.retrospec.com/en-US/is-the-weekender-electric-pump-compatible-with-all-isups-and-platforms-629822',
+  '/en_US/water-accessory-compatibility/is-the-weekender-electric-pump-compatible-with-the-coaster-inflatable-kayak': 'https://help.retrospec.com/en-US/is-the-weekender-electric-pump-compatible-with-the-coaster-inflatable-kayak-629823',
+  '/en_US/water-accessory-compatibility/which-replacement-fins-are-compatible-with-what-isups': 'https://help.retrospec.com/en-US/which-replacement-fins-are-compatible-with-what-isups-629824',
+  '/en_US/water-accessory-compatibility/which-paddle-boards-will-fit-in-the-isup-backpack': 'https://help.retrospec.com/en-US/which-paddle-boards-will-fit-in-the-isup-backpack-629825',
+  '/en_US/water-sizing-weight/what-size-paddle-board-should-i-get': 'https://help.retrospec.com/en-US/what-size-paddle-board-should-i-get-629826',
+  '/en_US/water-sizing-weight/how-much-do-retrospec-paddle-boardsplatforms-weigh': 'https://help.retrospec.com/en-US/how-much-do-retrospec-paddle-boardsplatforms-weigh-629827',
+  '/en_US/water-sizing-weight/what-is-the-weight-limit-for-retrospec-paddle-boards-platforms': 'https://help.retrospec.com/en-US/what-is-the-weight-limit-for-retrospec-paddle-boards-and-platforms-629828',
+  '/en_US/water-sizing-weight/how-much-do-retrospec-kayaks-weigh': 'https://help.retrospec.com/en-US/how-much-do-retrospec-kayaks-weigh-629829',
+  '/en_US/water-sizing-weight/what-is-the-weight-limit-for-retrospec-kayaks': 'https://help.retrospec.com/en-US/what-is-the-weight-limit-for-retrospec-kayaks-629830',
+  '/en_US/care-maintenance/how-do-i-take-care-of-my-paddle-board': 'https://help.retrospec.com/en-US/how-do-i-take-care-of-my-paddle-board-629831',
 
   };
 
