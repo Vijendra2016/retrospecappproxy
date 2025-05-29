@@ -10,6 +10,11 @@ export async function GET(req: NextRequest) {
 
   const redirects: Record<string, string> = {
     
+
+     'https://retrospec.com/apps/help/':
+      'https://help.retrospec.com/en-US',
+ 
+     
       '/en_US/faq-orders':
       'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
 
