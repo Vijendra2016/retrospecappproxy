@@ -44,7 +44,15 @@ export async function GET(req: NextRequest) {
   '/en_US/discounts-coupons/do-you-have-any-discount-codes-or-coupons': 'https://help.retrospec.com/en-US/do-you-have-any-discount-codes-or-coupons-651582',
   '/en_US/discounts-coupons/do-you-have-any-military-discounts': 'https://help.retrospec.com/en-US/do-you-have-any-military-discounts-651583',
   '/en_US/gift-cards/how-do-i-send-a-gift-card': 'https://help.retrospec.com/en-US/how-do-i-send-a-gift-card-651584',
-  '/en_US/gift-cards/do-you-have-gift-cards': 'https://help.retrospec.com/en-US/do-you-have-gift-cards-651585'
+  '/en_US/gift-cards/do-you-have-gift-cards-': 'https://help.retrospec.com/en-US/do-you-have-gift-cards-651585',
+
+
+  '/en_US/shipping-general/how-long-will-it-take-to-receive-my': 'https://help.retrospec.com/en-US/how-long-will-it-take-to-receive-my-order-651589',
+  '/en_US/shipping-general/how-do-i-receive-free-shipping': 'https://help.retrospec.com/en-US/how-do-i-receive-free-shipping-651591',
+  '/en_US/shipping-general/what-happens-if-i-refuse-delivery': 'https://help.retrospec.com/en-US/what-happens-if-i-refuse-delivery-651592',
+  '/en_US/shipping-tracking/where-is-my-tracking-number': 'https://help.retrospec.com/en-US/where-is-my-tracking-number-651593',
+  '/en_US/shipping-tracking/my-tracking-number-isnt-working-': 'https://help.retrospec.com/en-US/my-tracking-number-isnt-working-651594',
+
 
   };
 
