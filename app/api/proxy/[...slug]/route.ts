@@ -241,14 +241,14 @@ export async function GET(req: NextRequest) {
   '/en_US/warranty/bike-arrived-with-bent-fenders-can-i-get-a-replacement-': 'https://help.retrospec.com/en-US/bike-arrived-with-bent-fenders-can-i-get-a-replacement-629920',
   '/en_US/warranty/what-is-your-warranty-on-e-bikes': 'https://retrospec.com/pages/warranty-policy',
 
-  '/en_US/bike-parts-accessories-owners-center': 'https://retrospec.com/apps/help/en_US/bike-parts-accessories-owners-center',
+  '/en_US/bike-parts-accessories-owners-center': 'https://help.retrospec.com/en-US/articles/product-help-bike-gear-160844',
   '/en_US/bike-parts-accessories-owners-assembly-fit/how-do-i-get-my-helmet-to-fit-correctly': 'https://help.retrospec.com/en-US/how-do-i-get-my-helmet-to-fit-correctly-629925',
   '/en_US/bike-parts-accessories-owners-assembly-fit/how-can-i-convert-my-ski-helmet-into-a-bike-helmet': 'https://help.retrospec.com/en-US/how-can-i-convert-my-ski-helmet-into-a-bike-helmet-629926',
   '/en_US/bike-parts-accessories-owners-assembly-fit/flip-flop-hub-instructions-': 'https://help.retrospec.com/en-US/flip-flop-hub-instructions-629928',
   '/en_US/bike-parts-accessories-owners-safety/is-it-illegal-to-not-wear-a-helmet': 'https://help.retrospec.com/en-US/is-it-illegal-to-not-wear-a-helmet-629929',
   '/en_US/bike-parts-accessories-owners-care-maintenance/how-should-i-store-my-helmet': 'https://help.retrospec.com/en-US/how-should-i-store-my-helmet-629930',
-  '/en_US/bike-parts-accessories-owners-warranty/car-racks-sports-equipment-carrier-warranty': 'https://retrospec.com/pages/warranty-policy',
   '/en_US/bike-parts-accessories-owners-warranty/bike-trailer-warranty': 'https://retrospec.com/pages/warranty-policy',
+
 
   '/en_US/water-owners-center': 'https://help.retrospec.com/en-US/articles/product-help-paddle-160840',
   '/en_US/water-owners-general/i-lost-my-fins-what-do-i-do': 'https://help.retrospec.com/en-US/i-lost-my-fins-what-do-i-do-629956',
