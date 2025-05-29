@@ -273,7 +273,18 @@ export async function GET(req: NextRequest) {
   '/en_US/snow-owners-assembly-fit/how-can-i-convert-my-ski-helmet-into-a-bike-helmet': 'https://help.retrospec.com/en-US/how-can-i-convert-my-ski-helmet-into-a-bike-helmet-630070',
   '/en_US/snow-owners-care-maintenance/how-should-i-store-my-snow-helmet': 'https://help.retrospec.com/en-US/how-should-i-store-my-snow-helmet-630071',
   '/en_US/snow-owners-warranty/snow-warranty': 'https://retrospec.com/pages/warranty-policy',
-  
+
+
+  '/en_US/assembly-owners-manuals': 'https://help.retrospec.com/en-US/articles/assembly-and-owners-manuals-164472',
+  '/en_US/all/bike-assembly-owners-manuals': 'https://help.retrospec.com/en-US/bike-assembly-and-owners-manuals-630074',
+  '/en_US/all/e-bike-assembly-owners-manuals': 'https://help.retrospec.com/en-US/ebike-assembly-and-owners-manuals-630075',
+  '/en_US/all/water-assembly-owners-manuals': 'https://help.retrospec.com/en-US/water-assembly-and-owners-manuals-630076',
+  '/en_US/all/bike-parts-accessories-assembly-owners-manuals': 'https://help.retrospec.com/en-US/bike-parts-and-accessories-assembly-and-owners-manuals-630078',
+  '/en_US/all/e-bike-parts-accessories-assembly-owners-manuals': 'https://help.retrospec.com/en-US/ebike-accessories-assembly-and-owners-manuals-630079',
+  '/en_US/all/1395661-exercise-assembly-owner-s-manuals': 'https://help.retrospec.com/en-US/exercise-assembly-and-owners-manuals-630081',
+  '/en_US/all/1395662-scooters-assembly-owner-s-manuals': 'https://help.retrospec.com/en-US/scooters-assembly-and-owners-manuals-630082',
+  '/en_US/all/1395663-outdoors-assembly-owner-s-manuals': 'https://help.retrospec.com/en-US/camp-assembly-and-owners-manuals-630083',
+  '/en_US/all/snow-assembly-owners-manuals': 'https://help.retrospec.com/en-US/snow-assembly-and-owners-manuals-630084',
 
 
 
