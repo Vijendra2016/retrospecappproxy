@@ -168,6 +168,15 @@ export async function GET(req: NextRequest) {
   '/en_US/water-sizing-weight/what-is-the-weight-limit-for-retrospec-kayaks': 'https://help.retrospec.com/en-US/what-is-the-weight-limit-for-retrospec-kayaks-629830',
   '/en_US/care-maintenance/how-do-i-take-care-of-my-paddle-board': 'https://help.retrospec.com/en-US/how-do-i-take-care-of-my-paddle-board-629831',
 
+  '/en_US/skate-product-center': 'https://help.retrospec.com/en-US/articles/product-help-skate-160841',
+  '/en_US/skate-general/what-is-the-difference-between-a-longboard-and-a-skateboard': 'https://help.retrospec.com/en-US/what-is-the-difference-between-a-longboard-and-a-skateboard-629832',
+  '/en_US/skate-assembly/do-your-boards-come-fully-assembled': 'https://help.retrospec.com/en-US/do-your-boards-come-fully-assembled-629833',
+  '/en_US/skate-specs-components/what-is-the-difference-between-reverse-kingpin-and-traditional-trucks': 'https://help.retrospec.com/en-US/what-is-the-difference-between-%22reverse-kingpin%22-and-%22traditional%22-trucks-629834',
+  '/en_US/skate-specs-components/what-does-wheel-hardness-mean': 'https://help.retrospec.com/en-US/what-does-%22wheel-hardness%22-mean-629835',
+  '/en_US/skate-sizing-weight/do-your-boards-have-a-weight-limit': 'https://help.retrospec.com/en-US/do-your-longboardsskateboards-have-a-weight-limit-629836',
+  '/en_US/skate-sizing-weight/how-heavy-are-the-boards-': 'https://help.retrospec.com/en-US/how-heavy-are-your-longboardsskateboards-629837',
+  '/en_US/skate-sizing-weight/what-board-is-best-for-me-': 'https://help.retrospec.com/en-US/what-longboardskateboard-is-best-for-me-629838',
+
   };
 
   const destination = redirects[fullPath];
