@@ -14,6 +14,11 @@ export async function GET(req: NextRequest) {
       
       '/en_US/faq-orders':
       'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
+
+      
+      '/en_US/order-update-information/what-should-i-do-if-i-put-the-wrong-shipping-address':
+      'https://help.retrospec.com/en-US/what-should-i-do-if-i-put-the-wrong-shipping-address-603386',
+      
   };
 
   const destination = redirects[fullPath];
