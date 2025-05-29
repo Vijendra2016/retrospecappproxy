@@ -71,7 +71,40 @@ export async function GET(req: NextRequest) {
   '/en_US/faq-general/is-retrospec-a-chinese-company': 'https://help.retrospec.com/en-US/is-retrospec-a-chinese-company-607395',
   '/en_US/faq-general/is-retrospec-a-us-company': 'https://help.retrospec.com/en-US/is-retrospec-a-us-company-607396',
   '/en_US/faq-general/is-retrospec-a-real-company': 'https://help.retrospec.com/en-US/is-retrospec-a-real-company-607397',
-  '/en_US/faq-general/what-does-legacy-mean-on-our-product-pages': 'https://help.retrospec.com/en-US/what-does-%22legacy%22-mean-on-our-product-pages-607398'
+  '/en_US/faq-general/what-does-legacy-mean-on-our-product-pages': 'https://help.retrospec.com/en-US/what-does-%22legacy%22-mean-on-our-product-pages-607398',
+
+  '/en_US/product-center': 'https://help.retrospec.com/en-US/articles',
+  '/en_US/bike-product-center': 'https://help.retrospec.com/en-US/articles/product-help-bikes-160028',
+  '/en_US/bike_general/can-i-order-a-customized-bike-': 'https://help.retrospec.com/en-US/can-i-order-a-customized-bike-629183',
+  '/en_US/bike_general/how-can-i-test-ride-a-bike-before-buying': 'https://help.retrospec.com/en-US/how-can-i-test-ride-a-bike-before-buying-629194',
+  '/en_US/bike_general/where-are-your-bikes-made': 'https://help.retrospec.com/en-US/where-are-your-bikes-made-629193',
+  '/en_US/bike_general/what%E2%80%99s-the-difference-between-a-step-over-and-step-through-bike-frame': 'https://help.retrospec.com/en-US/what%E2%80%99s-the-difference-between-a-step-over-and-step-through-bike-frame-629192',
+  '/en_US/bike_general/how-do-i-choose-the-right-bike-for-me': 'https://help.retrospec.com/en-US/how-do-i-choose-the-right-bike-for-me-629190',
+  '/en_US/bike_assembly/can-i-assemble-my-bike-by-myself': 'https://help.retrospec.com/en-US/can-i-assemble-my-bike-by-myself-629197',
+  '/en_US/bike_assembly/will-you-assemble-my-bike': 'https://help.retrospec.com/en-US/will-you-assemble-my-bike-629196',
+  '/en_US/bike_assembly/how-much-of-the-bike-comes-assembled': 'https://help.retrospec.com/en-US/how-much-of-the-bike-comes-assembled-629195',
+  '/en_US/bike-specs-components/does-retrospec-sell-replacement-parts': 'https://help.retrospec.com/en-US/does-retrospec-sell-replacement-parts-629417',
+  '/en_US/bike-specs-components/what-is-a-coaster-brake': 'https://help.retrospec.com/en-US/what-is-a-coaster-brake-629238',
+  '/en_US/bike-specs-components/what-is-a-flip-flop-hub': 'https://help.retrospec.com/en-US/what-is-a-flip-flop-hub-629237',
+  '/en_US/bike-specs-components/what-is-a-sealed-cartridge-bearing-hub': 'https://help.retrospec.com/en-US/what-is-a-sealed-cartridge-bearing-hub-629236',
+  '/en_US/bike-specs-components/what-is-a-suspension-fork': 'https://help.retrospec.com/en-US/what-is-a-suspension-fork-629235',
+  '/en_US/bike-specs-components/what-is-internal-cable-housing': 'https://help.retrospec.com/en-US/what-is-internal-cable-housing-629233',
+  '/en_US/bike-specs-components/do-your-bikes-come-with-kickstands': 'https://help.retrospec.com/en-US/do-your-bikes-come-with-kickstands-629232',
+  '/en_US/bike-specs-components/what-are-the-sizes-of-your-bike-tires': 'https://help.retrospec.com/en-US/what-are-the-sizes-of-your-bike-tires-629230',
+  '/en_US/bike-specs-components/are-all-wheels-compatible-with-your-bikes': 'https://help.retrospec.com/en-US/are-all-wheels-compatible-with-your-bikes-629228',
+  '/en_US/bike-specs-components/which-of-your-bikes-have-aluminum-frames': 'https://help.retrospec.com/en-US/which-of-your-bikes-have-aluminum-frames-629227',
+  '/en_US/bike-specs-components/what-kind-of-tire-tubes-come-with-your-bikes': 'https://help.retrospec.com/en-US/what-kind-of-tire-tubes-come-with-your-bikes-629226',
+  '/en_US/bike-accessory-compatibility/are-all-your-bike-compatible-with-your-trailers': 'https://help.retrospec.com/en-US/are-all-your-bikes-compatible-with-your-trailers-629418',
+  '/en_US/bike-accessory-compatibility/are-all-your-bikes-compatible-with-your-baskets-': 'https://help.retrospec.com/en-US/are-all-your-bikes-compatible-with-your-baskets-629419',
+  '/en_US/bike-accessory-compatibility/are-retrospec-car-racks-compatible-with-all-retrospec-bikes': 'https://help.retrospec.com/en-US/are-retrospec-car-racks-compatible-with-all-retrospec-bikes-629420',
+  '/en_US/bike-accessory-compatibility/can-i-install-a-childs-seat-to-any-of-your-bikes': 'https://help.retrospec.com/en-US/can-i-install-a-childs-seat-to-any-of-your-bikes-629421',
+  '/en_US/bike-accessory-compatibility/will-alder-or-arroyo-fit-in-the-bottle-cages-on-your-bikes': 'https://help.retrospec.com/en-US/will-alder-or-arroyo-fit-in-the-bottle-cages-on-your-bikes-629422',
+  '/en_US/bike-accessory-compatibility/can-i-add-a-watter-bottle-cage-to-my-bike': 'https://help.retrospec.com/en-US/can-i-add-a-watter-bottle-cage-to-my-bike-629423',
+  '/en_US/bike-accessory-compatibility/which-of-your-bikes-fit-on-the-lenox-car-rack': 'https://help.retrospec.com/en-US/which-of-your-bikes-fit-on-the-lenox-car-rack-629424',
+  '/en_US/bike-sizing-weight/is-there-a-weight-limit-for-your-bikes': 'https://help.retrospec.com/en-US/is-there-a-weight-limit-for-your-bikes-629430',
+  '/en_US/bike-sizing-weight/how-much-do-your-bikes-weigh': 'https://help.retrospec.com/en-US/how-much-do-your-bikes-weigh-629431',
+  '/en_US/bike-sizing-weight/should-i-size-up-or-down-if-i-am-inbetween-bike-sizes': 'https://help.retrospec.com/en-US/should-i-size-up-or-down-if-i-am-inbetween-bike-sizes-629432'
+
 
 
   };
