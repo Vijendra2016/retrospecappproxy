@@ -140,7 +140,15 @@ export async function GET(req: NextRequest) {
   '/en_US/e-bike-sizing-weight/are-your-bikes-single-passenger': 'https://help.retrospec.com/en-US/are-your-bikes-single-passenger-629617',
   '/en_US/e-bike-sizing-weight/do-your-e-bikes-come-in-multiple-sizes': 'https://help.retrospec.com/en-US/do-your-ebikes-come-in-multiple-sizes-629618',
 
-
+  '/en_US/bike-parts-accessories': 'https://help.retrospec.com/en-US/articles/product-help-bike-gear-160844',
+  '/en_US/bike-parts-accessories-general/are-your-helmets-safe': 'https://help.retrospec.com/en-US/are-your-helmets-safe-629619',
+  '/en_US/bike-parts-accessories-general/what-does-cpsc-tested-mean': 'https://help.retrospec.com/en-US/what-does-cpsc-mean-629620',
+  '/en_US/bike-parts-accessories-general/are-cpsc-tested-helmets-safer-than-other-helmets': 'https://help.retrospec.com/en-US/are-cpsc-helmets-safer-than-other-helmets-629625',
+  '/en_US/bike-parts-accessories-general/are-your-helmets-safe-to-use-after-theyve-been-involved-in-an-accident-': 'https://help.retrospec.com/en-US/are-your-helmets-safe-to-use-after-theyve-been-involved-in-an-accident-629626',
+  '/en_US/bike-parts-accessories-general/can-i-use-one-of-your-helmets-when-riding-a-motor-vehicle-': 'https://help.retrospec.com/en-US/can-i-use-one-of-your-helmets-when-riding-a-motor-vehicle-629636',
+  '/en_US/bike-parts-accessories-specs-components/what-is-an-ergoknob': 'https://help.retrospec.com/en-US/what-is-an-%22ergoknob%22-629637',
+  '/en_US/bike-parts-accessories-specs-components/are-your-bike-baskets-compatible-with-all-of-your-bikes': 'https://help.retrospec.com/en-US/are-your-bike-baskets-compatible-with-all-of-your-bikes-629657',
+  '/en_US/bike-parts-accessories-sizing-weight/how-do-i-find-my-helmet-size': 'https://help.retrospec.com/en-US/how-do-i-find-my-helmet-size-629665',
 
 
   };
