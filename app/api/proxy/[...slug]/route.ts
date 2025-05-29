@@ -285,6 +285,32 @@ export async function GET(req: NextRequest) {
   '/en_US/all/1395662-scooters-assembly-owner-s-manuals': 'https://help.retrospec.com/en-US/scooters-assembly-and-owners-manuals-630082',
   '/en_US/all/1395663-outdoors-assembly-owner-s-manuals': 'https://help.retrospec.com/en-US/camp-assembly-and-owners-manuals-630083',
   '/en_US/all/snow-assembly-owners-manuals': 'https://help.retrospec.com/en-US/snow-assembly-and-owners-manuals-630084',
+  
+  '/en_US/the-outdoor-journal': 'https://retrospec.com/blogs/gear-guides',
+  '/en_US/bikes-gear-guides/city-bikes-buyers-guide': 'https://retrospec.com/blogs/gear-guides/city-bikes-the-ultimate-buyers-guide',
+  '/en_US/bikes-gear-guides/beach-cruiser-bikes-the-ultimate-buyers-guide': 'https://retrospec.com/blogs/gear-guides/beach-cruiser-bikes-the-ultimate-buyers-guide',
+  '/en_US/bikes-gear-guides/commuter-bikes-buyers-guide': 'https://retrospec.com/blogs/gear-guides/commuter-bikes-the-ultimate-buyer-s-guide',
+  '/en_US/bikes-gear-guides/hybrid-bikes-buyers-guide': 'https://retrospec.com/blogs/gear-guides/hybrid-bikes-the-ultimate-buyers-guide',
+  '/en_US/bikes-gear-guides/what-size-bike': 'https://retrospec.com/blogs/gear-guides/what-size-bike-is-right-for-you',
+  '/en_US/bikes-gear-guides/types-of-bikes': 'https://retrospec.com/blogs/gear-guides/types-of-bikes-7-of-the-most-popular-and-their-preferred-terrain',
+  '/en_US/bikes-gear-guides/hybrid-bike-vs-mountain-bike': 'https://retrospec.com/blogs/gear-guides/hybrid-bikes-vs-mountain-bikes-whats-the-difference',
+  '/en_US/bikes-gear-guides/what-are-the-best-bikes-for-beach-riding-': 'https://retrospec.com/blogs/gear-guides/what-are-the-best-bikes-for-beach-riding',
+  '/en_US/bikes-gear-guides/10-best-womens-bikes': 'https://retrospec.com/blogs/gear-guides/10-best-womens-bikes',
+  '/en_US/e-bikes/electric-bike-ultimate-buyers-guide': 'https://retrospec.com/blogs/gear-guides/electric-bike-the-ultimate-buyers-guide',
+  '/en_US/e-bikes/the-best-types-of-electric-city-bikes': 'https://retrospec.com/blogs/gear-guides/the-best-types-of-electric-city-bikes',
+  '/en_US/e-bikes/why-buy-an-electric-bike': 'https://retrospec.com/blogs/gear-guides/10-reasons-why-you-should-consider-buying-an-electric-bike',
+  '/en_US/news/brewing-the-bike-koa-rev-plus': 'https://retrospec.com/blogs/gear-guides/brewing-the-bike-koa-rev',
+  '/en_US/bike-gear-parts-accessories/how-to-remove-rust-from-your-bike-chain-': 'https://retrospec.com/blogs/gear-guides/how-to-remove-rust-from-your-bike-chain',
+  '/en_US/bike-gear-parts-accessories/which-tire-to-choose-for-your-bike': 'https://retrospec.com/blogs/gear-guides/which-tire-to-choose-for-your-bike-type-buyer-s-guide',
+  '/en_US/water-sports-gear-guides/inflatable-paddle-board-buyer%E2%80%99s-guide': 'https://retrospec.com/blogs/gear-guides/the-ultimate-inflatable-paddle-board-buyer-s-guide',
+  '/en_US/water-sports-gear-guides/inflatable-paddle-boards-vs-solid-why-inflatable-wins-every-time': 'https://retrospec.com/blogs/gear-guides/inflatable-paddle-boards-vs-solid-why-inflatable-wins-every-time',
+  '/en_US/water-sports-gear-guides/what-is-a-sup': 'https://retrospec.com/blogs/gear-guides/what-is-a-sup-stand-up-paddle-boarding-explained',
+  '/en_US/news/the-isup-made-for-life-on-water': 'https://retrospec.com/blogs/gear-guides/the-inflatable-stand-up-paddle-board-made-for-life-on-water-weekender',
+  '/en_US/gear-guide-skate/the-pros-and-cons-of-longboards-vs-skateboards': 'https://retrospec.com/blogs/gear-guides/the-pros-and-cons-of-longboards-vs-skateboards',
+  '/en_US/gear-guide-skate/7-types-of-skateboards-and-their-benefits': 'https://retrospec.com/blogs/gear-guides/7-types-of-skateboards-and-their-benefits',
+  '/en_US/gear-guide-skate/longboard-shapes-their-benefits': 'https://retrospec.com/blogs/gear-guides/longboard-shapes-their-benefits-buyer-s-guide',
+  '/en_US/snow-sports/budget-friendly-snow-goggles': 'https://retrospec.com/blogs/gear-guides/how-to-find-budget-friendly-ski-and-snowboard-goggles',
+  '/en_US/snow-sports/how-to-choose-a-ski-snowboard-helmet': 'https://retrospec.com/blogs/gear-guides/how-to-choose-the-right-ski-snowboard-helmet'
 
 
 
