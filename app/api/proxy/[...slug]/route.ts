@@ -57,7 +57,21 @@ export async function GET(req: NextRequest) {
   '/en_US/return-policy/what-is-your-return-policy': 'https://help.retrospec.com/en-US/what-is-your-return-policy-621182',
   '/en_US/returns-/how-do-i-start-a-return': 'https://help.retrospec.com/en-US/how-do-i-start-a-return-651595',
   '/en_US/exchanges/do-you-offer-exchanges': 'https://help.retrospec.com/en-US/do-you-offer-exchanges-651597',
-  '/en_US/exchanges/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one': 'https://help.retrospec.com/en-US/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one-651598'
+  '/en_US/exchanges/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one': 'https://help.retrospec.com/en-US/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one-651598',
+
+  '/en_US/faq-general': 'https://help.retrospec.com/en-US/articles/company-and-partners-160494',
+  '/en_US/faq-general/where-are-you-located': 'https://help.retrospec.com/en-US/where-are-you-located-607373',
+  '/en_US/faq-general/what-are-your-hours': 'https://help.retrospec.com/en-US/what-are-your-hours-607387',
+  '/en_US/faq-general/how-can-i-contact-retrospec': 'https://help.retrospec.com/en-US/how-can-i-contact-retrospec-607388',
+  '/en_US/faq-general/when-was-retrospec-started': 'https://help.retrospec.com/en-US/when-was-retrospec-started-607389',
+  '/en_US/faq-general/does-retrospec-have-a-retail-store': 'https://help.retrospec.com/en-US/does-retrospec-have-a-retail-store-607390',
+  '/en_US/faq-general/where-can-i-find-retrospec-products': 'https://help.retrospec.com/en-US/where-can-i-find-retrospec-products-607391',
+  '/en_US/faq-general/do-you-have-an-ambassador-program': 'https://help.retrospec.com/en-US/do-you-have-an-ambassador-program-607392',
+  '/en_US/faq-general/how-can-i-be-a-dealer-for-retrospec': 'https://help.retrospec.com/en-US/how-can-i-be-a-dealer-for-retrospec-607393',
+  '/en_US/faq-general/is-retrospec-a-chinese-company': 'https://help.retrospec.com/en-US/is-retrospec-a-chinese-company-607395',
+  '/en_US/faq-general/is-retrospec-a-us-company': 'https://help.retrospec.com/en-US/is-retrospec-a-us-company-607396',
+  '/en_US/faq-general/is-retrospec-a-real-company': 'https://help.retrospec.com/en-US/is-retrospec-a-real-company-607397',
+  '/en_US/faq-general/what-does-legacy-mean-on-our-product-pages': 'https://help.retrospec.com/en-US/what-does-%22legacy%22-mean-on-our-product-pages-607398'
 
 
   };
