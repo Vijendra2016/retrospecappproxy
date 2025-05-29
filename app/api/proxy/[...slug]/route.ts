@@ -18,7 +18,19 @@ export async function GET(req: NextRequest) {
       
       '/en_US/order-update-information/what-should-i-do-if-i-put-the-wrong-shipping-address':
       'https://help.retrospec.com/en-US/what-should-i-do-if-i-put-the-wrong-shipping-address-603386',
+
+
+      '/en_US/order-update-information/can-i-change-my-payment-method-for-an-order-ive-already-placed':
+      'https://help.retrospec.com/en-US/can-i-change-my-payment-method-for-an-order-ive-already-placed-603485',
+
       
+      '/en_US/order-cancellation/how-do-i-cancel-my-order':
+      'https://help.retrospec.com/en-US/how-do-i-cancel-my-order-603486',
+
+      '/en_US/order-cancellation/how-do-i-cancel-my-order-if-its-already-been-shipped':
+      'https://help.retrospec.com/en-US/how-do-i-cancel-my-order-if-its-already-been-shipped-603487',
+
+
   };
 
   const destination = redirects[fullPath];
