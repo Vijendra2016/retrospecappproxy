@@ -11,6 +11,9 @@ export async function GET(req: NextRequest) {
   const redirects: Record<string, string> = {
     '/en_US/financing/what-are-your-financing-options':
       'https://retrospec-ivrgjdsmxon.gorgias.help/en-US/articles/what-should-i-do-if-i-put-the-wrong-shipping-address-603386',
+      
+      '/en_US/faq-orders':
+      'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
   };
 
   const destination = redirects[fullPath];
