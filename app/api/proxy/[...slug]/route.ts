@@ -310,7 +310,42 @@ export async function GET(req: NextRequest) {
   '/en_US/gear-guide-skate/7-types-of-skateboards-and-their-benefits': 'https://retrospec.com/blogs/gear-guides/7-types-of-skateboards-and-their-benefits',
   '/en_US/gear-guide-skate/longboard-shapes-their-benefits': 'https://retrospec.com/blogs/gear-guides/longboard-shapes-their-benefits-buyer-s-guide',
   '/en_US/snow-sports/budget-friendly-snow-goggles': 'https://retrospec.com/blogs/gear-guides/how-to-find-budget-friendly-ski-and-snowboard-goggles',
-  '/en_US/snow-sports/how-to-choose-a-ski-snowboard-helmet': 'https://retrospec.com/blogs/gear-guides/how-to-choose-the-right-ski-snowboard-helmet'
+  '/en_US/snow-sports/how-to-choose-a-ski-snowboard-helmet': 'https://retrospec.com/blogs/gear-guides/how-to-choose-the-right-ski-snowboard-helmet',
+
+  '/en_US/blog-bike/how-to-ride-a-bike': 'https://retrospec.com/blogs/blog/how-to-ride-a-bike-3-steps',
+  '/en_US/blog-bike/what-are-the-health-benefits-of-cycling': 'https://retrospec.com/blogs/blog/what-are-the-health-benefits-of-cycling',
+  '/en_US/blog-snow-sports/skiing-vs-snowboarding': 'https://retrospec.com/blogs/blog/skiing-vs-snowboarding-which-is-better-for-beginners',
+  '/en_US/blog-snow-sports/what-to-wear-skiing': 'https://retrospec.com/blogs/blog/what-to-wear-skiing-how-to-keep-warm-on-the-ski-slopes',
+  '/en_US/blog-snow-sports/snowboard-trip-packing-list': 'https://retrospec.com/blogs/blog/snowboard-trip-packing-list-12-things-not-to-forget',
+  '/en_US/blog-snow-sports/what-is-all-mountain-snowboarding': 'https://retrospec.com/blogs/blog/what-is-all-mountain-snowboarding',
+  '/en_US/blog-snow-sports/how-to-snowboard-ultimate-beginners-guide': 'https://retrospec.com/blogs/blog/how-to-snowboard-ultimate-beginners-guide',
+  '/en_US/blog-skate/how-to-skateboard': 'https://retrospec.com/blogs/blog/how-to-skateboard-5-steps-for-beginners',
+  '/en_US/blog-skate/how-to-longboard-tips-and-tricks': 'https://retrospec.com/blogs/blog/how-to-longboard-for-beginners-tips-and-tricks',
+  '/en_US/adventure/1500211-7-adventures-to-take-before-summer-ends': 'https://retrospec.com/blogs/blog/7-adventures-to-take-before-summer-ends',
+  '/en_US/adventure/4-ways-to-cultivate-your-kid%E2%80%99s-love-for-the-outdoors': 'https://retrospec.com/blogs/blog/4-ways-to-cultivate-your-kid-s-love-for-the-outdoors',
+  '/en_US/adventure/how-to-get-back-in-shape-holidays': 'https://retrospec.com/blogs/blog/8-post-holiday-recovery-outdoor-essentials',
+  '/en_US/adventure/23-best-outdoor-adventures-in-2023': 'https://retrospec.com/blogs/blog/the-23-best-outdoor-adventures-in-2023-new-year-new-adventures',
+
+  '/en_US/gift-guides': 'https://retrospec.com/blogs/gift-guides',
+  '/en_US/gift-guides-all/back-to-school-outdoor-gift-guide': 'https://retrospec.com/blogs/gift-guides/17-gifts-for-back-to-school',
+  '/en_US/gift-guides-all/outdoor-gift-guide-summer-2022': 'https://retrospec.com/blogs/gift-guides/20-ultimate-outdoor-gifts-for-summer-2022',
+  '/en_US/gift-guides-all/outdoor-gift-guide-2022': 'https://retrospec.com/blogs/gift-guides/editor-approved-outdoor-gift-ideas',
+  '/en_US/gift-guides-all/best-outdoor-gifts-for-families': 'https://retrospec.com/blogs/gift-guides/21-outdoor-gift-ideas-for-parents-kids-partners-and-grandparents',
+  '/en_US/gift-guides-all/gift-ideas-for-the-outdoor-enthusiast': 'https://retrospec.com/blogs/gift-guides/18-gift-ideas-for-the-outdoor-adventurer-in-your-life-including-gear-for-beach-lovers-city-dwellers-and-alpine-enthusiasts',
+  '/en_US/gift-guides-all/outdoor-gifts-for-zodiac-signs': 'https://retrospec.com/blogs/gift-guides/12-outdoor-gifts-for-each-zodiac-sign',
+  '/en_US/gift-guides-all/best-outdoor-gear-for-2023': 'https://retrospec.com/blogs/gift-guides/the-7-best-outdoor-products-for-2023',
+  '/en_US/gift-guides-all/how-to-build-high-quality-home-gym': 'https://retrospec.com/blogs/gift-guides/9-ways-to-create-a-high-quality-home-gym-for-any-space',
+
+  '/en_US/news': 'https://retrospec.com/blogs/news',
+  '/en_US/news/introducing-omega-retrospecs-10-year-anniversary-bike': 'https://retrospec.com/blogs/news/omega',
+  '/en_US/news/why-did-bicycles-become-more-expensive-during-covid': 'https://retrospec.com/blogs/news/why-did-bicycles-become-more-expensive-during-covid',
+  '/en_US/news/a-letter-from-retrospec%E2%80%99s-ceo': 'https://retrospec.com/blogs/news/a-letter-from-retrospec-s-founder-ceo-ely-khakshouri',
+  '/en_US/news/how-much-does-an-electric-bike-cost': 'https://retrospec.com/blogs/news/how-much-does-an-electric-bike-cost',
+  '/en_US/news/brewing-the-bike-chatham-rev-2': 'https://retrospec.com/blogs/news/brewing-the-bike-chatham-rev-2',
+  '/en_US/news/sup-kayak-weekender-plus-2-does-it-all': 'https://retrospec.com/blogs/news/sup-kayak-weekender-plus-2-does-it-all',
+  '/en_US/news/important-update-how-new-tariffs-will-affect-bicycle-and-ebike-prices': 'https://retrospec.com/blogs/news/important-update-how-new-tariffs-will-affect-bicycle-and-ebike-prices',
+
+
 
 
 
