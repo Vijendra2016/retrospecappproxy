@@ -177,7 +177,43 @@ export async function GET(req: NextRequest) {
   '/en_US/skate-sizing-weight/how-heavy-are-the-boards-': 'https://help.retrospec.com/en-US/how-heavy-are-your-longboardsskateboards-629837',
   '/en_US/skate-sizing-weight/what-board-is-best-for-me-': 'https://help.retrospec.com/en-US/what-longboardskateboard-is-best-for-me-629838',
 
-  };
+  '/en_US/snow-product-center': 'https://help.retrospec.com/en-US/articles/product-help-snow-160842',
+  '/en_US/snow-general/what-does-cpsc-tested-mean': 'https://help.retrospec.com/en-US/what-does-cpsc-tested-mean-629839',
+  '/en_US/snow-general/are-cpsc-tested-helmets-safer-than-other-helmets': 'https://help.retrospec.com/en-US/are-cpsc-tested-helmets-safer-than-other-helmets-629840',
+  '/en_US/snow-assembly/do-retrospec-helmets-require-any-assembly': 'https://help.retrospec.com/en-US/do-retrospec-snow-helmets-require-any-assembly-629841',
+  '/en_US/snow-specs-components/what-is-an-ergoknob-': 'https://help.retrospec.com/en-US/what-is-an-%22ergoknob%22-629842',
+  '/en_US/snow-sizing-weight/are-all-retrospec-snow-helmets-adjustable': 'https://help.retrospec.com/en-US/are-all-retrospec-snow-helmets-adjustable-629843',
+  '/en_US/snow-sizing-weight/are-all-retrospec-snow-goggles-adjustable': 'https://help.retrospec.com/en-US/are-all-retrospec-snow-goggles-adjustable-629844',
+
+  '/en_US/exercise-product-center': 'https://help.retrospec.com/en-US/articles/product-help-exercise-160845',
+  '/en_US/exercise-general/which-yoga-mat-is-best-for-me': 'https://help.retrospec.com/en-US/which-yoga-mat-is-best-for-me-629845',
+  '/en_US/exercise-general/what-is-the-difference-between-a-yoga-mat-and-an-exercise-mat': 'https://help.retrospec.com/en-US/what-is-the-difference-between-a-yoga-mat-and-an-exercise-mat-629846',
+  '/en_US/exercise-general/what-is-the-best-thickness-for-a-yoga-mat': 'https://help.retrospec.com/en-US/what-is-the-best-thickness-for-a-yoga-mat-629847',
+  '/en_US/exercise-assembly/do-retrospec-leap-plyo-boxes-require-any-assemble': 'https://help.retrospec.com/en-US/do-retrospec-leap-plyo-boxes-require-any-assembly-629848',
+  '/en_US/exercise-sizing-weight/which-yoga-ball-size-is-best-for-me': 'https://help.retrospec.com/en-US/which-yoga-ball-size-is-best-for-me-629849',
+  
+  '/en_US/owners-center': 'https://help.retrospec.com/en-US/articles',
+  '/en_US/bike-owners-center': 'https://help.retrospec.com/en-US/articles/product-help-bikes-160028',
+  '/en_US/bike-owners_general/my-bike-was-stolen-': 'https://help.retrospec.com/en-US/my-bike-was-stolen-629856',
+  '/en_US/bike-owners_general/how-do-i-register-my-bike': 'https://help.retrospec.com/en-US/how-do-i-register-my-bike-629857',
+  '/en_US/bike-owners-assembly-fit/how-high-should-i-make-the-seat-post': 'https://help.retrospec.com/en-US/how-high-should-i-make-the-seat-post-629858',
+  '/en_US/bike-owners-assembly-fit/which-way-should-the-fork-go': 'https://help.retrospec.com/en-US/which-way-should-the-fork-go-629859',
+  '/en_US/bike-owners-assembly-fit/which-valve-mouths-are-compatible-with-your-bikes-tires': 'https://help.retrospec.com/en-US/which-valve-mouths-are-compatible-with-your-bikes-tires-629860',
+  '/en_US/bike-owners-assembly-fit/can-i-adjust-the-height-of-my-bikes-handlebar': 'https://help.retrospec.com/en-US/can-i-adjust-the-height-of-my-bikes-handlebar-629861',
+  '/en_US/bike-owners-assembly-fit/how-can-i-remove-my-bikes-tires': 'https://help.retrospec.com/en-US/how-can-i-remove-my-bikes-tires-629862',
+  '/en_US/bike-owners-safety/should-i-wear-a-helmet-while-biking': 'https://help.retrospec.com/en-US/should-i-wear-a-helmet-while-biking-629863',
+  '/en_US/bike-owners-care-maintenance/how-often-should-i-tune-my-bike': 'https://help.retrospec.com/en-US/how-often-should-i-tune-my-bike-629864',
+  '/en_US/bike-owners-care-maintenance/how-do-i-take-care-of-my-bike': 'https://help.retrospec.com/en-US/how-do-i-take-care-of-my-bike-629865',
+  '/en_US/bike-owners-care-maintenance/how-do-you-prevent-bike-rust': 'https://help.retrospec.com/en-US/how-do-you-prevent-bike-rust-629867',
+  '/en_US/bike-owners-care-maintenance/where-can-i-get-touch-up-paint-for-my-bike': 'https://help.retrospec.com/en-US/where-can-i-get-touch-up-paint-for-my-bike-629869',
+  '/en_US/bike-owners-troubleshooting/why-is-the-pedal-hitting-the-front-wheel-of-my-bike': 'https://help.retrospec.com/en-US/why-is-the-pedal-hitting-the-front-wheel-of-my-bike-629870',
+  '/en_US/bike-owners-troubleshooting/my-tires-are-flat-and-wont-fill-with-air': 'https://help.retrospec.com/en-US/my-tires-are-flat-and-wont-fill-with-air-629881',
+  '/en_US/bike-owners-warranty/what-is-your-warranty-policy-for-bikes': 'https://retrospec.com/pages/warranty-policy',
+  '/en_US/bike-owners-warranty/how-do-i-make-a-warranty-claim': 'https://retrospec.com/pages/warranty-policy',
+
+
+
+};
 
   const destination = redirects[fullPath];
 
