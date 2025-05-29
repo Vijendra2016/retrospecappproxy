@@ -9,9 +9,7 @@ export async function GET(req: NextRequest) {
     : '/' + decodeURIComponent(pathOnly);
 
   const redirects: Record<string, string> = {
-    '/en_US/financing/what-are-your-financing-options':
-      'https://retrospec-ivrgjdsmxon.gorgias.help/en-US/articles/what-should-i-do-if-i-put-the-wrong-shipping-address-603386',
-      
+    
       '/en_US/faq-orders':
       'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
 
@@ -38,7 +36,15 @@ export async function GET(req: NextRequest) {
        
       '/en_US/order-general/the-product-i-want-is-out-of-stock-what-do-i-do':
       'https://help.retrospec.com/en-US/the-product-i-want-is-out-of-stock-what-do-i-do-651588',
-
+       
+  '/en_US/financing': 'https://help.retrospec.com/en-US/articles/payments-and-financing-160027',
+  '/en_US/financing/what-are-your-financing-options': 'https://help.retrospec.com/en-US/what-are-your-financing-options-603579',
+  '/en_US/refunds/what-payment-methods-do-you-accept': 'https://help.retrospec.com/en-US/what-payment-methods-do-you-accept-651551',
+  '/en_US/refunds/when-can-i-expect-my-refund': 'https://help.retrospec.com/en-US/when-can-i-expect-my-refund-651580',
+  '/en_US/discounts-coupons/do-you-have-any-discount-codes-or-coupons': 'https://help.retrospec.com/en-US/do-you-have-any-discount-codes-or-coupons-651582',
+  '/en_US/discounts-coupons/do-you-have-any-military-discounts': 'https://help.retrospec.com/en-US/do-you-have-any-military-discounts-651583',
+  '/en_US/gift-cards/how-do-i-send-a-gift-card': 'https://help.retrospec.com/en-US/how-do-i-send-a-gift-card-651584',
+  '/en_US/gift-cards/do-you-have-gift-cards': 'https://help.retrospec.com/en-US/do-you-have-gift-cards-651585'
 
   };
 
