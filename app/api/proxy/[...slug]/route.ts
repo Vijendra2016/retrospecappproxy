@@ -23,8 +23,17 @@ export async function GET(req: NextRequest) {
       'https://help.retrospec.com/en-US/what’s-the-difference-between-a-step-over-and-step-through-629434',
       
       
+
+
+        '/en_US/all/skate-assembly-owners-manuals':
+      'https://help.retrospec.com/en-US/articles/assembly-and-owners-manuals-164472',
+
+       
       '/en_US/faq-orders':
       'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
+
+
+      
 
 
 
