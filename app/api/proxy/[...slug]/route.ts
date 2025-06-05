@@ -14,7 +14,7 @@ export async function GET(req: NextRequest) {
      '/':
       'https://help.retrospec.com/en-US',
  
-      ' /en_US/bike_general/what’s-the-difference-between-a-step-over-and-step-through-bike-frame':'https://help.retrospec.com/en-US/what’s-the-difference-between-a-step-over-and-step-through-bike-frame-629192',
+      ' /en_US/bike_general/what\'s-the-difference-between-a-step-over-and-step-through-bike-frame':'https://help.retrospec.com/en-US/what\'s-the-difference-between-a-step-over-and-step-through-bike-frame-629192',
       '/en_US/faq-orders':
       'https://help.retrospec.com/en-US/articles/order-and-shipping-160009',
 
