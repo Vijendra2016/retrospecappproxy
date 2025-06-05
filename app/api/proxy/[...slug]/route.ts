@@ -330,7 +330,7 @@ export async function GET(req: NextRequest) {
   '/en_US/news/brewing-the-bike-koa-rev-plus': 'https://retrospec.com/blogs/gear-guides/brewing-the-bike-koa-rev',
   '/en_US/bike-gear-parts-accessories/how-to-remove-rust-from-your-bike-chain-': 'https://retrospec.com/blogs/gear-guides/how-to-remove-rust-from-your-bike-chain',
   '/en_US/bike-gear-parts-accessories/which-tire-to-choose-for-your-bike': 'https://retrospec.com/blogs/gear-guides/which-tire-to-choose-for-your-bike-type-buyer-s-guide',
-  '/en_US/water-sports-gear-guides/inflatable-paddle-board-buyer%E2%80%99s-guide': 'https://retrospec.com/blogs/gear-guides/the-ultimate-inflatable-paddle-board-buyer-s-guide',
+  '/en_US/water-sports-gear-guides/inflatable-paddle-board-buyer’s-guide': 'https://retrospec.com/blogs/gear-guides/the-ultimate-inflatable-paddle-board-buyer-s-guide',
   '/en_US/water-sports-gear-guides/inflatable-paddle-boards-vs-solid-why-inflatable-wins-every-time': 'https://retrospec.com/blogs/gear-guides/inflatable-paddle-boards-vs-solid-why-inflatable-wins-every-time',
   '/en_US/water-sports-gear-guides/what-is-a-sup': 'https://retrospec.com/blogs/gear-guides/what-is-a-sup-stand-up-paddle-boarding-explained',
   '/en_US/news/the-isup-made-for-life-on-water': 'https://retrospec.com/blogs/gear-guides/the-inflatable-stand-up-paddle-board-made-for-life-on-water-weekender',
