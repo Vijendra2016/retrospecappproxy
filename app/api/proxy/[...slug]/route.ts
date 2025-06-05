@@ -52,7 +52,7 @@ export async function GET(req: NextRequest) {
   '/en_US/gift-cards/do-you-have-gift-cards-': 'https://help.retrospec.com/en-US/do-you-have-gift-cards-651585',
 
 
-  '/en_US/shipping-general/how-long-will-it-take-to-receive-my': 'https://help.retrospec.com/en-US/how-long-will-it-take-to-receive-my-order-651589',
+  '/en_US/shipping-general/how-long-will-it-take-to-receive-my-order': 'https://help.retrospec.com/en-US/how-long-will-it-take-to-receive-my-order-651589',
   '/en_US/shipping-general/how-do-i-receive-free-shipping': 'https://help.retrospec.com/en-US/how-do-i-receive-free-shipping-651591',
   '/en_US/shipping-general/what-happens-if-i-refuse-delivery': 'https://help.retrospec.com/en-US/what-happens-if-i-refuse-delivery-651592',
   '/en_US/shipping-tracking/where-is-my-tracking-number': 'https://help.retrospec.com/en-US/where-is-my-tracking-number-651593',
