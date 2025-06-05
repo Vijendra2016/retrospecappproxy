@@ -33,7 +33,7 @@ export async function GET(req: NextRequest) {
       '/en_US/order-cancellation/how-do-i-cancel-my-order-if-its-already-been-shipped':
       'https://help.retrospec.com/en-US/how-do-i-cancel-my-order-if-its-already-been-shipped-603487',
 
-      'en_US/order-cancellation/can-i-cancel-my-order-if-i-havent-received-a-tracking-number-yet':
+      '/en_US/order-cancellation/can-i-cancel-my-order-if-i-havent-received-a-tracking-number-yet':
       'https://help.retrospec.com/en-US/can-i-cancel-my-order-if-i-havent-received-a-tracking-number-yet-603488',
        
       '/en_US/order-cancellation/i-just-placed-my-order-and-according-to-the-tracking-number-it-hasnt-been-shipped-yet-am-i-able-to-cancel-it':
