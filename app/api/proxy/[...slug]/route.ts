@@ -367,7 +367,7 @@ export async function GET(req: NextRequest) {
   '/en_US/news': 'https://retrospec.com/blogs/news',
   '/en_US/news/introducing-omega-retrospecs-10-year-anniversary-bike': 'https://retrospec.com/blogs/news/omega',
   '/en_US/news/why-did-bicycles-become-more-expensive-during-covid': 'https://retrospec.com/blogs/news/why-did-bicycles-become-more-expensive-during-covid',
-  '/en_US/news/a-letter-from-retrospec%E2%80%99s-ceo': 'https://retrospec.com/blogs/news/a-letter-from-retrospec-s-founder-ceo-ely-khakshouri',
+  '/en_US/news/a-letter-from-retrospec’s-ceo': 'https://retrospec.com/blogs/news/a-letter-from-retrospec-s-founder-ceo-ely-khakshouri',
   '/en_US/news/how-much-does-an-electric-bike-cost': 'https://retrospec.com/blogs/news/how-much-does-an-electric-bike-cost',
   '/en_US/news/brewing-the-bike-chatham-rev-2': 'https://retrospec.com/blogs/news/brewing-the-bike-chatham-rev-2',
   '/en_US/news/sup-kayak-weekender-plus-2-does-it-all': 'https://retrospec.com/blogs/news/sup-kayak-weekender-plus-2-does-it-all',
