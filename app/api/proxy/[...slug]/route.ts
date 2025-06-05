@@ -66,8 +66,9 @@ export async function GET(req: NextRequest) {
   '/en_US/exchanges/do-you-offer-exchanges': 'https://help.retrospec.com/en-US/do-you-offer-exchanges-651597',
   '/en_US/exchanges/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one': 'https://help.retrospec.com/en-US/my-bike-isnt-the-right-size-can-i-exchange-it-for-a-new-one-651598',
   '/en_US/damaged-product/my-order-arrived-damaged-what-do-i-do': 'https://help.retrospec.com/en-US/my-order-arrived-damaged-what-do-i-do-1724433',
+  '/en_US/faq-general/warranty-policy': 'https://help.retrospec.com/en-US/articles/returns-and-exchanges-160026',
+  '/en_US/faq-general/if-a-bike-component-gets-stolen-or-doesnt-function-properly-will-retrospec-replace-that-part': 'https://retrospec.com/pages/contact-us',
 
-  
   '/en_US/faq-general': 'https://help.retrospec.com/en-US/articles/company-and-partners-160494',
   '/en_US/faq-general/where-are-you-located': 'https://help.retrospec.com/en-US/where-are-you-located-607373',
   '/en_US/faq-general/what-are-your-hours': 'https://help.retrospec.com/en-US/what-are-your-hours-607387',
