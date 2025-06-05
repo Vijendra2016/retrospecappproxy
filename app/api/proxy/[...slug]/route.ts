@@ -350,7 +350,7 @@ export async function GET(req: NextRequest) {
   '/en_US/blog-skate/how-to-skateboard': 'https://retrospec.com/blogs/gear-guides/how-to-skateboard-5-steps-for-beginners',
   '/en_US/blog-skate/how-to-longboard-tips-and-tricks': 'https://retrospec.com/blogs/gear-guides/how-to-longboard-for-beginners-tips-and-tricks',
   '/en_US/adventure/1500211-7-adventures-to-take-before-summer-ends': 'https://retrospec.com/blogs/news/7-adventures-to-take-before-summer-ends',
-  '/en_US/adventure/4-ways-to-cultivate-your-kid%E2%80%99s-love-for-the-outdoors': 'https://retrospec.com/blogs/news/4-ways-to-cultivate-your-kid-s-love-for-the-outdoors',
+  '/en_US/adventure/4-ways-to-cultivate-your-kid’s-love-for-the-outdoors': 'https://retrospec.com/blogs/news/4-ways-to-cultivate-your-kid-s-love-for-the-outdoors',
   '/en_US/adventure/how-to-get-back-in-shape-holidays': 'https://retrospec.com/blogs/news/8-post-holiday-recovery-outdoor-essentials',
   '/en_US/adventure/23-best-outdoor-adventures-in-2023': 'https://retrospec.com/blogs/news/the-23-best-outdoor-adventures-in-2023-new-year-new-adventures',
   
