@@ -363,6 +363,9 @@ export async function GET(req: NextRequest) {
   '/en_US/gift-guides-all/outdoor-gifts-for-zodiac-signs': 'https://retrospec.com/blogs/gift-guides/12-outdoor-gifts-for-each-zodiac-sign',
   '/en_US/gift-guides-all/best-outdoor-gear-for-2023': 'https://retrospec.com/blogs/gift-guides/the-7-best-outdoor-products-for-2023',
   '/en_US/gift-guides-all/how-to-build-high-quality-home-gym': 'https://retrospec.com/blogs/gift-guides/9-ways-to-create-a-high-quality-home-gym-for-any-space',
+   
+  
+   '/en_US/faq-payments-financing': 'https://help.retrospec.com/en-US/articles/payments-and-financing-160027',
 
   '/en_US/news': 'https://retrospec.com/blogs/news',
   '/en_US/news/introducing-omega-retrospecs-10-year-anniversary-bike': 'https://retrospec.com/blogs/news/omega',
