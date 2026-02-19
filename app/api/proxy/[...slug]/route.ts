@@ -367,6 +367,10 @@ export async function GET(req: NextRequest) {
   
    '/en_US/faq-payments-financing': 'https://help.retrospec.com/en-US/articles/payments-and-financing-160027',
    '/gift-guides-all/how-to-build-high-quality-home-gym': 'https://retrospec.com/blogs/gear-guides/9-ways-to-create-a-high-quality-home-gym-for-any-space',
+   '/en_US/gear-guides': 'https://retrospec.com/blogs/gear-guides/',
+   'https://retrospec.com/blogs/gear-guides/%20https://retrospec.com/collections/ebike-parts-accessories': 'https://retrospec.com/blogs/gear-guides/',
+   'https://retrospec.com/collections/electric-city-bikes/products/beaumont-rev-2-electric-city-bike-step-throughhttps://retrospec.com/collections/electric-city-bikes/products/beaumont-rev-2-electric-city-bike-step-through': 'https://retrospec.com/collections/electric-city-bikes/products/beaumont-rev-electric-city-bike-step-through',
+
 
   '/en_US/news': 'https://retrospec.com/blogs/news',
   '/en_US/news/introducing-omega-retrospecs-10-year-anniversary-bike': 'https://retrospec.com/blogs/news/omega',
